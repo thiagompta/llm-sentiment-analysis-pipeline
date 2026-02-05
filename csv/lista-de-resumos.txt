@@ -1,0 +1,5 @@
+E-mail 1: Bem-vindo(a) à equipe: expressamos prazer em tê-lo conosco e incentivamos a aproveitar todos os recursos disponíveis.
+E-mail 2: Retoma contato para saber se analisou a proposta enviada.
+E-mail 3: Solicita agendar uma reunião rápida para alinhar os próximos passos, pedindo a disponibilidade de horário.
+E-mail 4: Agradece o tempo e a conversa produtiva, expressando prazer em falar com a pessoa e encerrando com um “até breve”.
+E-mail 5: Informar que o sistema será submetido a manutenção programada nesta noite.
